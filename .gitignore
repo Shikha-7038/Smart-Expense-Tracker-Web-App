@@ -1,0 +1,26 @@
+# Node modules
+node_modules/
+
+# Environment files
+.env
+.env.local
+
+# Build folders
+dist/
+build/
+client/dist/
+
+# IDE files
+.vscode/
+.idea/
+.DS_Store
+
+# Logs
+*.log
+
+# Lock files (optional - remove if you want to keep)
+package-lock.json
+yarn.lock
+
+# MongoDB data
+data/
