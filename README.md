@@ -249,13 +249,16 @@ Health Check: http://localhost:5000/api/health
 ## 📊 Sample Data for Testing
 
 # Income Transactions
+```
 | Amount | Category | Description |
 | ₹50,000 | Salary | Monthly Salary |
 | ₹5,000 | Freelance | Website Project |
 | ₹2,000 | Investment | Stock Dividends |
 | ₹1,000 | Gift | Birthday Gift |
+```
 
 # Expense Transactions
+```
 | Amount | Category | Description |
 | ₹15,000 | Rent | Monthly Rent |
 | ₹4,000 | Food | Groceries |
@@ -263,14 +266,17 @@ Health Check: http://localhost:5000/api/health
 | ₹3,000 | Shopping | Clothes |
 | ₹2,000 | Bills | Electricity |
 | ₹1,500 | Transport | Metro Card |
+```
 
 # Budgets
+```
 | Category | Amount |
 | Rent | ₹15,000 |
 | Food | ₹8,000 |
 | Transport | ₹3,000 |
 | Shopping | ₹5,000 |
 | Bills | ₹3,000 |
+```
 
 ## 🔧 Troubleshooting
 **MongoDB Connection Error**
